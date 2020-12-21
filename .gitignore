@@ -128,8 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Jupyter Notebook Checkpoints
+# Jupyter Notebook and VSCode Checkpoints
 .ipynb_checkpoints/
+.vscode
 
 # Raw datasets
 Data/
