@@ -5,7 +5,7 @@ App is live [here](https://soccer-match-betting-tool.herokuapp.com/).
 
 # Objective
 The sports betting industry as a whole is a multi-hundred-billion dollar behemoth, with soccer taking the top spot. This tool was constructed with the goal of influencing betting habits by analyzing trends in past match results to help the gambler have a more nuanced look at the match in question and therefore place a more educated bet. <br>
-The app is designed to work with any league and club though, provided there is SPI data for the club. <br>
+The app is designed to work with any league and club, provided there is SPI data for the club. <br>
 Decimal, fractional, and moneyline odds need to be converted to percentage odds to be input. <br> 
 
 # Data
