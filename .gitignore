@@ -130,7 +130,6 @@ dmypy.json
 
 # Jupyter Notebook and VSCode Checkpoints
 .ipynb_checkpoints/
-.vscode
+.vscode/
 
 # Raw datasets
-Data/
